@@ -1,0 +1,16 @@
+<Text as='b'>
+    Card Set
+</Text>
+          <Text>
+            Name: {kartu.set_name}
+          </Text>
+          <Text>
+            Code: {kartu.set_code}
+          </Text>
+          <Text>
+            Rarity: {kartu.set_rarity}
+          </Text>
+          <Text>
+            Price: {kartu.set_price}
+          </Text>
+
